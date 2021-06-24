@@ -18,6 +18,6 @@ mkdir /home/pi/Desktop/Jamming/Output/PSD/NoJam/Power_L5
 
 mkdir /home/pi/Desktop/Jamming/Output/PSD/Status_Device
 
-cp /home/pi/ToR-main/PSD_loop.py /home/pi/Desktop/Jamming
-cp /home/pi/ToR-main/upload_Jam.py /home/pi/Desktop/Jamming
-cp /home/pi/ToR-main/upload_NoJam.py /home/pi/Desktop/Jamming
+cp /home/pi/ToR/PSD_loop.py /home/pi/Desktop/Jamming
+cp /home/pi/ToR/upload_Jam.py /home/pi/Desktop/Jamming
+cp /home/pi/ToR/upload_NoJam.py /home/pi/Desktop/Jamming
